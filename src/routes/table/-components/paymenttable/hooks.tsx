@@ -22,7 +22,7 @@ function generatePayments(n: number): Payment[] {
 }
 
 async function getPayments(): Promise<Payment[]> {
-  return generatePayments(1000000);
+  return generatePayments(10000);
 }
 
 export function usePaymentsTable() {

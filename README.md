@@ -10,3 +10,4 @@ Run with `npm run dev`
 - [react](https://react.dev/)
 - [tanstack router](https://tanstack.com/router/latest)
 - [tanstack query](https://tanstack.com/query/latest)
+- [tanstack table](https://tanstack.com/table/latest)
